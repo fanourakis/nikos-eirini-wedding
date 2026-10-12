@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nikos and Eirini Wedding//Save The Date//EL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nikos-eirini-wedding-20271015@savethedate
+DTSTAMP:20261001T200000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Γάμος Νίκου & Ειρήνης
+DESCRIPTION:Save the Date! Ο Νίκος και η Ειρήνη παντρεύονται.\nΣημειώστε την ημερομηνία! Περισσότερες λεπτομέρειες και το επίσημο προσκλητήριο θα ακολουθήσουν.
+LOCATION:Ηράκλειο\, Κρήτη\, Ελλάδα
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Υπενθύμιση: Γάμος Νίκου & Ειρήνης αύριο!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
